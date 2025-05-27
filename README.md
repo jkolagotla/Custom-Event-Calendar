@@ -1,73 +1,13 @@
-# Welcome to your Lovable project
+![Screenshot 2025-05-27 143857](https://github.com/user-attachments/assets/112a8837-ce6a-4a27-80a8-9403ec54c34a)
+![Screenshot 2025-05-27 143907](https://github.com/user-attachments/assets/4c48e4a3-8a8c-4ecc-9840-7f0b34233910)
+![Screenshot 2025-05-27 143916](https://github.com/user-attachments/assets/c90004de-9383-4fea-9974-d64e560158b4)![Screenshot 2025-05-27 144014](https://github.com/user-attachments/assets/7430ef25-e4dd-494e-9b24-43e7b3547dcc)
 
-## Project info
+![Screenshot 2025-05-27 143926](https://githu![Screenshot ![Screenshot 2025-05-27 144133](https://github.com/us![Screenshot 2025-05-27 144641](https://github.com/user-attachments/assets/2458dde8-3a97-406d-8a90-382122d84dbf)
+er-attachmen![Screenshot 2025-05-27 144359](https://github.com/user-attachments/assets/1ef71970-749a-49a2-88b4-3fb6ff524cc4)
+ts/assets/7dfccea4-227e-4f6b-8580-b1d03c77b433)
+2025-05-27 144047](https://github.com/user-attachments/assets/2c52b714-2dd2-45f5-851f-43f5d7fa3d81)
+b.com/user-attachments/ass![Screenshot 2025-05-27 144000](https://github.com/user-attachments/assets/74aba684-95b0-4071-9596-cfe5f9c6a55c)
+ets/12b453fd-e9![Screenshot 2025-05-27 143940](https://github.com/user-attachments/assets/df3b9a38-b346-4988-beb2-f43c4679b4bf)![Screenshot 2025-05-27 144030](https://github.com/user-attachments/assets/2794d508-926e-4761-8e84-c7260536c342)
 
-**URL**: https://lovable.dev/projects/35c0cd4f-4aba-4ad9-ba0f-743f8acfa6dd
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/35c0cd4f-4aba-4ad9-ba0f-743f8acfa6dd) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/35c0cd4f-4aba-4ad9-ba0f-743f8acfa6dd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+b7-4c8a-a1b7-0229ede7a838)
+![Screenshot 2025-05-27 143931](https://github.com/user-attachments/assets/6d6a1b55-0f4e-4eda-9ab0-abc73192c3fa)
